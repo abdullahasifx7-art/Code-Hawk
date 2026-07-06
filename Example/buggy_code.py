@@ -13,9 +13,9 @@ import socket
 import time
 from datetime import datetime
 
-API_KEY = "sk_live_AbCdEfGhIjKlMnOpQrStUvWxYz1234567890"
-DB_PASSWORD = "admin123"
-SECRET_KEY = "my_super_secret_key_12345"
+API_KEY = ""
+DB_PASSWORD = ""
+SECRET_KEY = ""
 DATABASE = "/tmp/users.db"
 CONFIG_FILE = "config.json"
 
